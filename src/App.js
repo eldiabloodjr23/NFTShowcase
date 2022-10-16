@@ -14,8 +14,8 @@ const App = () => {
         banner="banner"
       />
       <SectionWrapper 
-        title="Chytré uživatelské rozhraní Obchodní platforma" 
-        description="Vyzkoušejte máslové uživatelské rozhraní ProNef NFT Marketplace. Hladké uživatelské rozhraní a pestrý design "
+        title="Chytré uživatelské rozhraní " 
+        description="Vyzkoušejte skvělé uživatelské rozhraní ProNef NFT Marketplace. Hladké uživatelské rozhraní a pestrý design "
         mockupImg={assets.homeCards}
         reverse
       />
