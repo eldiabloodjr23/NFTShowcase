@@ -14,14 +14,14 @@ const App = () => {
         banner="banner"
       />
       <SectionWrapper 
-        title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of ProNef NFT Marketplace. Smooth constant colors of a fluent UI design."
+        title="Chytré uživatelské rozhraní Obchodní platforma" 
+        description="Vyzkoušejte máslové uživatelské rozhraní ProNef NFT Marketplace. Hladké uživatelské rozhraní a pestrý design "
         mockupImg={assets.homeCards}
         reverse
       />
       <Features />
       <SectionWrapper 
-        title="Deployment"
+        title="Nasazení"
         description="ProNef je vytvořen pomocí Expo, které běží nativně na zařízeních všech uživatelů. Svou aplikaci můžete snadno dostat do rukou lidí"
         mockupImg={assets.feature}
         reverse
@@ -36,7 +36,7 @@ const App = () => {
 
       <div className="px-4 py-2 justify-center items-center bg-primary flex-col text-center banner04">
         <p className={`${styles.pText} ${styles.whiteText}`}>Made with love by {" "}
-        <span className="bold">weinvent</span>
+        <span className="bold">Weinvent</span>
         </p>
       </div>
     </>
